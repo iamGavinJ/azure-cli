@@ -5,7 +5,7 @@
 
 ARG PYTHON_VERSION="3.6.9"
 
-FROM python:${PYTHON_VERSION}-alpine3.10
+FROM python:${PYTHON_VERSION}-alpine3.11
 
 ARG CLI_VERSION
 
